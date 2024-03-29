@@ -1,6 +1,6 @@
 # trihistogram
 
-Make two-dimensional histogram on irregular trianglar grids.
+Two-dimensional histograms on trianglar grids.
 
 ## Simple example
 
