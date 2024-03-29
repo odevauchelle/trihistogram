@@ -43,6 +43,8 @@ Here is the result:
 We can now compute our histogram:
 
 ```python
+import trihistogram as th
+
 H = th.trihistogram2d( T, x, y )
 print(H)
 ```
